@@ -2,4 +2,3 @@
 #
 3a16f2b4a40ef207278fb72b08ccf04a7ff17e1b                                       	saml/acumos-gerrit-docker-proxy-committers
 42f0c83244389e408b42fa668348002012ecba46                                       	GitHub Replication
-ldap:cn=acumos-gerrit-docker-proxy-committers,ou=Groups,dc=freestandards,dc=org	ldap/acumos-gerrit-docker-proxy-committers
